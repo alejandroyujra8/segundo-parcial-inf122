@@ -1,0 +1,34 @@
+.container-default {
+    display: flex;
+    width: 587px;
+    padding: 16px 20px;
+    align-items: center; 
+    gap: 10px;
+    border-radius: 10px 0px 0px 10px;
+    background: #F6F7F9;
+    margin-top: 20px;
+}
+
+.contenedor-texto {
+    border: 0;
+    background: #F6F7F9;
+    outline: none;
+    color: #767E8C;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    flex-grow: 1; 
+}
+
+.boton-enviar {
+    margin-left: auto;
+    height: auto;
+    display: block;
+    background-color: #1c9675;
+    outline: none;
+    margin: 0;
+    color: white;
+}
+
+
